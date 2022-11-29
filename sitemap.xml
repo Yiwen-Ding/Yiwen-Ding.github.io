@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://yiwen-ding.github.io/ML-note2-gnn</loc>
+    
+    <lastmod>2022-11-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yiwen-ding.github.io/ML-note1-cnn-rnn</loc>
+    
+    <lastmod>2022-11-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://yiwen-ding.github.io/ML-note0-pytorch</loc>
     
     <lastmod>2022-11-23</lastmod>
@@ -40,7 +58,7 @@
 
   <url>
     <loc>https://yiwen-ding.github.io/</loc>
-    <lastmod>2022-11-23</lastmod>
+    <lastmod>2022-11-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -50,35 +68,35 @@
   
   <url>
     <loc>https://yiwen-ding.github.io/categories/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2022-11-23</lastmod>
+    <lastmod>2022-11-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yiwen-ding.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2022-11-23</lastmod>
+    <lastmod>2022-11-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yiwen-ding.github.io/categories/%E6%8A%80%E6%9C%AF%E6%A0%88/</loc>
-    <lastmod>2022-11-23</lastmod>
+    <lastmod>2022-11-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yiwen-ding.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2022-11-23</lastmod>
+    <lastmod>2022-11-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://yiwen-ding.github.io/categories/%E6%8A%80%E6%9C%AF%E6%A0%88/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2022-11-23</lastmod>
+    <lastmod>2022-11-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
